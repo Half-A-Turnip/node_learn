@@ -1,0 +1,25 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "node学习",
+    "author": "zsk",
+    "private": true,
+    "scripts": {},
+    "dependencies": {
+        "babel-runtime": "^6.0.0"
+    },
+    "devDependencies": {
+        "autoprefixer": "^6.7.2",
+        "chalk": "^1.1.3",
+        "shelljs": "^0.7.6"
+    },
+    "engines": {
+        "node": ">= 4.0.0",
+        "npm": ">= 3.0.0"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not ie <= 8"
+    ]
+}
